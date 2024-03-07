@@ -1,4 +1,4 @@
-# MiniCraft: A Minecraft-Inspired Game in Python using Ursina Engine 
+# MiniCraft: A Minecraft-Inspired Game using Ursina Engine ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## Project Description
 Welcome to MiniCraft, a lightweight, Minecraft-inspired game built using Python and the Ursina engine. This project is a homage to the iconic block-building game, reimagined in Python for educational and entertainment purposes. It showcases the flexibility of Python and the Ursina engine in creating 3D environments and gameplay mechanics.
